@@ -5,10 +5,12 @@ Due to academic dishonesty for Thomas High School ninth graders, their grades ne
 ## Results:
 <img width="922" alt="Screen Shot 2021-09-11 at 4 33 04 PM" src="https://user-images.githubusercontent.com/88211298/132965971-7b14ce47-c196-4923-b9de-1c7c911bea2d.png">
 <img width="922" alt="Screen Shot 2021-09-11 at 4 30 50 PM" src="https://user-images.githubusercontent.com/88211298/132965934-76c1131c-f404-4711-a402-1ad225e37272.png">
+
 * We can see most score and passing rate have changed a little bit because we deleted ninth grade from Thomas High School, their grades can higher or lower the overall data due to ninth grade's performance, it doesn't change a lot because there are few students in ninth grade compare to overall district students.
 
 <img width="1009" alt="Screen Shot 2021-09-11 at 4 40 36 PM" src="https://user-images.githubusercontent.com/88211298/132966153-c31c8b51-862f-4581-9672-878761e485c6.png">
 <img width="1000" alt="Screen Shot 2021-09-11 at 4 41 06 PM" src="https://user-images.githubusercontent.com/88211298/132966154-0cd6d336-8f4a-4e01-8174-2aff71629ec5.png">
+
 * The only change in the school summary is Thomas High School, the percentage of passing rate boost a lot after deleting ninth grade.
 * However, this change will change the rank of school district and Thomas High School will be in the top 5.
 * Ninth-grade scores doesn't affect math and reading scores by other grade because we use groupby() to differentiate. Of course, the ninth grade shows NaN.
@@ -19,6 +21,8 @@ Due to academic dishonesty for Thomas High School ninth graders, their grades ne
 * I use different range from PyCitySchools to determine the size,size_bins=[0,2000,3000,5000]  group_names=["Small (<2000)", "Medium (2000-3000)", "Large (3000-5000)"] This method splits schools more evenly than PyCitySchool, it also affect scores but I cannot compare this with PyCitySchool due to different measurement.
 <img width="735" alt="Screen Shot 2021-09-11 at 5 35 18 PM" src="https://user-images.githubusercontent.com/88211298/132966880-bb540d54-4cbb-4e3b-8adc-3b73e207eab5.png">
 <img width="755" alt="Screen Shot 2021-09-11 at 5 35 30 PM" src="https://user-images.githubusercontent.com/88211298/132966884-18c58c05-4793-4621-86a2-3e291aa912dc.png">
+
 * Scores affect little by school type because there are only two types of school, and the amount of ninth grade in THS are relatively small in CHARTER compare to other CHARTER schools' student.
+
 ## Summary:
 The rank of schools, scores by school type, scores by school size, scores by school spending are changed by % Passing Math, % Passing Reading, % Overall Passing because of ninth grade.
