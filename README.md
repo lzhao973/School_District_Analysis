@@ -7,7 +7,7 @@ Due to academic dishonesty for Thomas High School ninth graders, their grades ne
 <img width="922" alt="Screen Shot 2021-09-11 at 4 33 04 PM" src="https://user-images.githubusercontent.com/88211298/132965971-7b14ce47-c196-4923-b9de-1c7c911bea2d.png">
 <img width="922" alt="Screen Shot 2021-09-11 at 4 30 50 PM" src="https://user-images.githubusercontent.com/88211298/132965934-76c1131c-f404-4711-a402-1ad225e37272.png">
 
-* The only change in the school summary is Thomas High School, the percentage of passing rate boost a lot after deleting ninth grade.
+* The only change in the school summary is Thomas High School, the percentage of passing rate boosts a lot after deleting ninth grade.
 <img width="1009" alt="Screen Shot 2021-09-11 at 4 40 36 PM" src="https://user-images.githubusercontent.com/88211298/132966153-c31c8b51-862f-4581-9672-878761e485c6.png">
 <img width="1000" alt="Screen Shot 2021-09-11 at 4 41 06 PM" src="https://user-images.githubusercontent.com/88211298/132966154-0cd6d336-8f4a-4e01-8174-2aff71629ec5.png">
 
